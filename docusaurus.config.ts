@@ -2,7 +2,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-
 const config: Config = {
   title: 'YouTube-DorGen',
   tagline: 'Документация по проекту YouTube-DorGen',
@@ -34,7 +33,11 @@ const config: Config = {
       },
     ],
   ],
-
+  
+  markdown: {
+    mermaid: true,
+  },
+  
   presets: [
     [
       'classic',

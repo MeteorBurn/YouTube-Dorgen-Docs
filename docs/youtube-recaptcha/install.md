@@ -5,7 +5,7 @@ title: 1️⃣Установка
 
 1️⃣ **Установите шаблон по этой видео инструкции**
 
-[video:https://youtu.be/To7XvGZjkl4:]
+<YouTubeEmbed videoId="To7XvGZjkl4" />
 
 
 

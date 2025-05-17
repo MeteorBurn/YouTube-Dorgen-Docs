@@ -41,7 +41,7 @@ YouTube-Manager может работать как самостоятельны�
 
 -  Поддержка cookies NetScape
 
-[video:https://youtu.be/yKuBm9klD-M:]
+<YouTubeEmbed videoId="yKuBm9klD-M" />
 
 :::info:true Технические требования
 

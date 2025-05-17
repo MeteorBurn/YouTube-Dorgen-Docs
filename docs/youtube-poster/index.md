@@ -53,11 +53,11 @@ title: 💙 YOUTUBE-POSTER
 
 -  Поддержка cookies NetScape
 
-[video:https://youtu.be/OUc4F3QrJhw:]
+<YouTubeEmbed videoId="OUc4F3QrJhw" />
 
 
 
-[video:https://youtu.be/rIjw7d0APRc:]
+<YouTubeEmbed videoId="rIjw7d0APRc" />
 
 :::info:true Технические требования
 

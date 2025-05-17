@@ -39,7 +39,7 @@ title: 🩵 YOUTUBE-RECAPTCHA
 
 ### **Видео**
 
-[video:https://youtu.be/p_a28w4h6Oc:]
+<YouTubeEmbed videoId="p_a28w4h6Oc" />
 
 ### **Скорость парсинга**
 
