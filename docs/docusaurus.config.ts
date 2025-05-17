@@ -31,6 +31,16 @@ const config: Config = {
     locales: ['ru'],
   },
 
+  plugins: [
+    [
+      '@orama/plugin-docusaurus-v3',
+      {
+        language: ['ru'],
+        sitemapPath: 'sitemap.xml',
+      }
+    ],
+  ],
+
   presets: [
     [
       'classic',
