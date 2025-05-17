@@ -2,34 +2,38 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Project Docs',
-  tagline: 'Dinosaurs are cool',
+  title: 'YouTube-DorGen',
+  tagline: 'Документация по проекту YouTube-DorGen',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://MeteorBurn.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'YouTube-Dorgen-Docs',
+  url: 'https://meteorburn.github.io',
+  baseUrl: '/YouTube-Dorgen-Docs/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'MeteorBurn', // Usually your GitHub org/user name.
+  projectName: 'YouTube-Dorgen-Docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru'],
   },
+
+  plugins: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        language: ['ru'],
+        indexDocs: true,
+        indexBlog: false,
+        docsRouteBasePath: '/docs',
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -37,10 +41,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main',
         },
         blog: {
           showReadingTime: true,
@@ -48,11 +50,8 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
+            'https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -65,24 +64,27 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     navbar: {
-      title: 'My Site',
+      title: 'YouTube-DorGen',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'YouTube-DorGen Logo',
         src: 'img/logo.svg',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'docs',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Документация',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/MeteorBurn/YouTube-Dorgen-Docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -92,46 +94,54 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Документация',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'О проекте',
+              to: '/docs/about',
+            },
+            {
+              label: 'YouTube-Uploader',
+              to: '/docs/youtube-uploader',
+            },
+            {
+              label: 'YouTube-Manager',
+              to: '/docs/youtube-manager',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Сообщество',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Telegram канал',
+              href: 'https://t.me/youtube_dorgen',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Telegram чат',
+              href: 'https://t.me/youtube_dorgen_chat',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'YouTube',
+              href: 'https://www.youtube.com/c/MeteorburnRu',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Ссылки',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Форум ZennoLab',
+              href: 'https://zennolab.com/discussion/members/meteorburn.53235/',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/MeteorBurn/YouTube-Dorgen-Docs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Meteorburn. Документация создана с помощью Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
