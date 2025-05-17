@@ -1,0 +1,27 @@
+{
+  "id": "youtube-uploader/sources/scheduler",
+  "title": "📗Планировщик",
+  "description": "Как задать видео конкретные данные?",
+  "source": "@site/docs/youtube-uploader/sources/scheduler.md",
+  "sourceDirName": "youtube-uploader/sources",
+  "slug": "/youtube-uploader/sources/scheduler",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/scheduler",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-uploader/sources/scheduler.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 0.5,
+    "title": "📗Планировщик"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "📑Файлы",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/files"
+  },
+  "next": {
+    "title": "✨Макросы",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/macroses"
+  }
+}

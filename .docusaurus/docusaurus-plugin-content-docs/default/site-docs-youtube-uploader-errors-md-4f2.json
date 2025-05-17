@@ -1,0 +1,27 @@
+{
+  "id": "youtube-uploader/errors",
+  "title": "⛔Ошибки",
+  "description": "Уникализация видео",
+  "source": "@site/docs/youtube-uploader/errors.md",
+  "sourceDirName": "youtube-uploader",
+  "slug": "/youtube-uploader/errors",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/errors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-uploader/errors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 4,
+    "title": "⛔Ошибки"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "✨Макросы",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/macroses"
+  },
+  "next": {
+    "title": "🔁 История обновлений",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/changelog"
+  }
+}

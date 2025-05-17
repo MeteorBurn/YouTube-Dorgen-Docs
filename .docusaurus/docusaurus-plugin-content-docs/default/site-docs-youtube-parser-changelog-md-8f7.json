@@ -1,0 +1,27 @@
+{
+  "id": "youtube-parser/changelog",
+  "title": "🔁 История обновлений",
+  "description": "",
+  "source": "@site/docs/youtube-parser/changelog.md",
+  "sourceDirName": "youtube-parser",
+  "slug": "/youtube-parser/changelog",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-parser/changelog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 3,
+    "title": "🔁 История обновлений"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🌐Прокси",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/proxy"
+  },
+  "next": {
+    "title": "🩵 YOUTUBE-RECAPTCHA",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/"
+  }
+}

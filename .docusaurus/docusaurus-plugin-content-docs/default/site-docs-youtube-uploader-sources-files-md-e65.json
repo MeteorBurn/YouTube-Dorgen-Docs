@@ -1,0 +1,27 @@
+{
+  "id": "youtube-uploader/sources/files",
+  "title": "📑Файлы",
+  "description": "Файлы удобны тем, что их можно заполнить один раз и использовать по кругу, загружая пул одних и тех же видео в случайном порядке или по очереди.",
+  "source": "@site/docs/youtube-uploader/sources/files.md",
+  "sourceDirName": "youtube-uploader/sources",
+  "slug": "/youtube-uploader/sources/files",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/files",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-uploader/sources/files.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 0.3,
+    "title": "📑Файлы"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🎦Загрузка видео",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/"
+  },
+  "next": {
+    "title": "📗Планировщик",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/scheduler"
+  }
+}

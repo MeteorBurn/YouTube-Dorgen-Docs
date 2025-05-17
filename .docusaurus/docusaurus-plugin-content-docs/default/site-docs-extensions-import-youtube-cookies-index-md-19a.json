@@ -1,0 +1,27 @@
+{
+  "id": "extensions/import-youtube-cookies/index",
+  "title": "🍪 Импорт сookies из браузера",
+  "description": "Поддерживается cookies только ваших личных или купленных в магазинах аккаунтов, к которым у вас есть доступ по логину и паролю. Любые другие cookies сомнительного происхождения использовать по назначению в шаблонах не получится!",
+  "source": "@site/docs/extensions/import-youtube-cookies/index.md",
+  "sourceDirName": "extensions/import-youtube-cookies",
+  "slug": "/extensions/import-youtube-cookies/",
+  "permalink": "/YouTube-Dorgen-Docs/docs/extensions/import-youtube-cookies/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/extensions/import-youtube-cookies/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 1,
+    "title": "🍪 Импорт сookies из браузера"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🔐 Работа с 2FA на аккаунтах",
+    "permalink": "/YouTube-Dorgen-Docs/docs/extensions/2fa"
+  },
+  "next": {
+    "title": "О проекте",
+    "permalink": "/YouTube-Dorgen-Docs/docs/about/"
+  }
+}

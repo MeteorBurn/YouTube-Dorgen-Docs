@@ -1,0 +1,27 @@
+{
+  "id": "install/start",
+  "title": "2️⃣Запуск шаблонов",
+  "description": "Лицензионный ключ",
+  "source": "@site/docs/install/start.md",
+  "sourceDirName": "install",
+  "slug": "/install/start",
+  "permalink": "/YouTube-Dorgen-Docs/docs/install/start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/install/start.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 0.6,
+    "title": "2️⃣Запуск шаблонов"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🔹ZennoBox",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/projects/zennobox"
+  },
+  "next": {
+    "title": "3️⃣Смена устройства",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/hwid"
+  }
+}

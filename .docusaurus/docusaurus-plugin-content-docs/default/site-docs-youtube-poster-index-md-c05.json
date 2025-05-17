@@ -1,0 +1,27 @@
+{
+  "id": "youtube-poster/index",
+  "title": "💙 YOUTUBE-POSTER",
+  "description": "YouTube-Poster – это программа для масслайкинга, масспостинга и массфолловинга на YouTube.",
+  "source": "@site/docs/youtube-poster/index.md",
+  "sourceDirName": "youtube-poster",
+  "slug": "/youtube-poster/",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-poster/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-poster/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 3.4,
+    "title": "💙 YOUTUBE-POSTER"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🔁 История обновлений",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-manager/changelog"
+  },
+  "next": {
+    "title": "🔁 История обновлений",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-poster/changelog"
+  }
+}

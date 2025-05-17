@@ -1,0 +1,27 @@
+{
+  "id": "youtube-recaptcha/changelog",
+  "title": "🔁 История обновлений",
+  "description": "-  Для прокси с поддержкой смены IP по запросу добавлена возможность выполнения Get-запроса для смены IP.",
+  "source": "@site/docs/youtube-recaptcha/changelog.md",
+  "sourceDirName": "youtube-recaptcha",
+  "slug": "/youtube-recaptcha/changelog",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-recaptcha/changelog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 5,
+    "title": "🔁 История обновлений"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "⏩Оптимизация",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/optimization"
+  },
+  "next": {
+    "title": "💚 YOUTUBE-MANAGER",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-manager/"
+  }
+}

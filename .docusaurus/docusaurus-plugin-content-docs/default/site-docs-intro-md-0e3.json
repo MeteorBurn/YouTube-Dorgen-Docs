@@ -1,0 +1,18 @@
+{
+  "id": "intro",
+  "title": "Введение",
+  "description": "Добро пожаловать в документацию проекта YouTube-DorGen!",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/YouTube-Dorgen-Docs/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

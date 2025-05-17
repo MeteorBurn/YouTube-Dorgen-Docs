@@ -1,0 +1,227 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/YouTube-Dorgen-Docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/YouTube-Dorgen-Docs/docs",
+          "mainDocId": "navigation/index",
+          "docs": [
+            {
+              "id": "about/contacts",
+              "path": "/YouTube-Dorgen-Docs/docs/about/contacts",
+              "sidebar": "docs"
+            },
+            {
+              "id": "about/index",
+              "path": "/YouTube-Dorgen-Docs/docs/about/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "accounts/add",
+              "path": "/YouTube-Dorgen-Docs/docs/accounts/add",
+              "sidebar": "docs"
+            },
+            {
+              "id": "accounts/index",
+              "path": "/YouTube-Dorgen-Docs/docs/accounts/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "accounts/requirements",
+              "path": "/YouTube-Dorgen-Docs/docs/accounts/requirements",
+              "sidebar": "docs"
+            },
+            {
+              "id": "extensions/2fa",
+              "path": "/YouTube-Dorgen-Docs/docs/extensions/2fa",
+              "sidebar": "docs"
+            },
+            {
+              "id": "extensions/import-youtube-cookies/index",
+              "path": "/YouTube-Dorgen-Docs/docs/extensions/import-youtube-cookies/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "extensions/index",
+              "path": "/YouTube-Dorgen-Docs/docs/extensions/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "extensions/multi-channels",
+              "path": "/YouTube-Dorgen-Docs/docs/extensions/multi-channels",
+              "sidebar": "docs"
+            },
+            {
+              "id": "install/hwid",
+              "path": "/YouTube-Dorgen-Docs/docs/install/hwid",
+              "sidebar": "docs"
+            },
+            {
+              "id": "install/index",
+              "path": "/YouTube-Dorgen-Docs/docs/install/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "install/projects/index",
+              "path": "/YouTube-Dorgen-Docs/docs/install/projects/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "install/projects/zennobox",
+              "path": "/YouTube-Dorgen-Docs/docs/install/projects/zennobox",
+              "sidebar": "docs"
+            },
+            {
+              "id": "install/projects/zennoposter",
+              "path": "/YouTube-Dorgen-Docs/docs/install/projects/zennoposter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "install/start",
+              "path": "/YouTube-Dorgen-Docs/docs/install/start",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/YouTube-Dorgen-Docs/docs/intro"
+            },
+            {
+              "id": "navigation/index",
+              "path": "/YouTube-Dorgen-Docs/docs/navigation/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-manager/changelog",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-manager/changelog",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-manager/index",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-manager/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-parser/changelog",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-parser/changelog",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-parser/docs",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-parser/docs",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-parser/guide",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-parser/guide",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-parser/index",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-parser/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-parser/proxy",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-parser/proxy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-poster/changelog",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-poster/changelog",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-poster/index",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-poster/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-recaptcha/changelog",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/changelog",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-recaptcha/index",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-recaptcha/install",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/install",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-recaptcha/optimization",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/optimization",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-recaptcha/proxy/index",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/proxy/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-recaptcha/run",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/run",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-recaptcha/setup",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/setup",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-uploader/changelog",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-uploader/changelog",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-uploader/errors",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-uploader/errors",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-uploader/index",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-uploader/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-uploader/macroses",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-uploader/macroses",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-uploader/sources/files",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/files",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-uploader/sources/index",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "youtube-uploader/sources/scheduler",
+              "path": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/scheduler",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/YouTube-Dorgen-Docs/docs/navigation/",
+                "label": "☑️ Меню"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

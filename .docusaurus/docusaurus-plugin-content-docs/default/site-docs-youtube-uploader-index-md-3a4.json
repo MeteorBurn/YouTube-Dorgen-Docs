@@ -1,0 +1,27 @@
+{
+  "id": "youtube-uploader/index",
+  "title": "❤️YOUTUBE-UPLOADER",
+  "description": "YouTube-Uploader -- это шаблон на ZennoPoster для автоматизированной многопоточной загрузки видео в YouTube, разработанный для WEB-мастеров, SEO-специалистов и людей близких к серому контенту и бесплатному трафику.",
+  "source": "@site/docs/youtube-uploader/index.md",
+  "sourceDirName": "youtube-uploader",
+  "slug": "/youtube-uploader/",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-uploader/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 2.2,
+    "title": "❤️YOUTUBE-UPLOADER"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🚹 Добавление аккаунтов",
+    "permalink": "/YouTube-Dorgen-Docs/docs/accounts/add"
+  },
+  "next": {
+    "title": "🎦Загрузка видео",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/"
+  }
+}

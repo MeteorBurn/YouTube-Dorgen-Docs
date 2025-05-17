@@ -1,0 +1,23 @@
+{
+  "id": "navigation/index",
+  "title": "☑️Меню",
+  "description": "🛠️ Установка",
+  "source": "@site/docs/navigation/index.md",
+  "sourceDirName": "navigation",
+  "slug": "/navigation/",
+  "permalink": "/YouTube-Dorgen-Docs/docs/navigation/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/navigation/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 0.1,
+    "title": "☑️Меню"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "🛠️ Установка",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/"
+  }
+}

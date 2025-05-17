@@ -1,0 +1,27 @@
+{
+  "id": "accounts/add",
+  "title": "🚹 Добавление аккаунтов",
+  "description": "💻Менеджер аккаунтов",
+  "source": "@site/docs/accounts/add.md",
+  "sourceDirName": "accounts",
+  "slug": "/accounts/add",
+  "permalink": "/YouTube-Dorgen-Docs/docs/accounts/add",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/accounts/add.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 2,
+    "title": "🚹 Добавление аккаунтов"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "⚠️ Требования к аккаунтам",
+    "permalink": "/YouTube-Dorgen-Docs/docs/accounts/requirements"
+  },
+  "next": {
+    "title": "❤️YOUTUBE-UPLOADER",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/"
+  }
+}

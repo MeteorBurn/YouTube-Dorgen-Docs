@@ -1,0 +1,27 @@
+{
+  "id": "youtube-manager/changelog",
+  "title": "🔁 История обновлений",
+  "description": "-  Восстановлена работа шаблона после недавних изменений YouTube от 17 февраля",
+  "source": "@site/docs/youtube-manager/changelog.md",
+  "sourceDirName": "youtube-manager",
+  "slug": "/youtube-manager/changelog",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-manager/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-manager/changelog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 1,
+    "title": "🔁 История обновлений"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "💚 YOUTUBE-MANAGER",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-manager/"
+  },
+  "next": {
+    "title": "💙 YOUTUBE-POSTER",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-poster/"
+  }
+}

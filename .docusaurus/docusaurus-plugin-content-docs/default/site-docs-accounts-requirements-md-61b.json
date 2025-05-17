@@ -1,0 +1,27 @@
+{
+  "id": "accounts/requirements",
+  "title": "⚠️ Требования к аккаунтам",
+  "description": "Для работы шаблонов с аккаунтами Google, крайне важно соблюдать следующие требования. В противном случае будут проблемы с авторизацией и исправить это будет нельзя!",
+  "source": "@site/docs/accounts/requirements.md",
+  "sourceDirName": "accounts",
+  "slug": "/accounts/requirements",
+  "permalink": "/YouTube-Dorgen-Docs/docs/accounts/requirements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/accounts/requirements.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 1,
+    "title": "⚠️ Требования к аккаунтам"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": " 🅰️ Аккаунты",
+    "permalink": "/YouTube-Dorgen-Docs/docs/accounts/"
+  },
+  "next": {
+    "title": "🚹 Добавление аккаунтов",
+    "permalink": "/YouTube-Dorgen-Docs/docs/accounts/add"
+  }
+}
