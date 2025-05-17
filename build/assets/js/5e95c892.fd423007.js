@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyoutube_dorgen_docs=self.webpackChunkyoutube_dorgen_docs||[]).push([[9647],{8122:(e,s,r)=>{r.r(s),r.d(s,{default:()=>a});r(6540);var u=r(4164),c=r(1769),o=r(204),d=r(2831),n=r(5641),t=r(4848);function a(e){return(0,t.jsx)(c.e3,{className:(0,u.A)(o.G.wrapper.docsPages),children:(0,t.jsx)(n.A,{children:(0,d.v)(e.route.routes)})})}}}]);

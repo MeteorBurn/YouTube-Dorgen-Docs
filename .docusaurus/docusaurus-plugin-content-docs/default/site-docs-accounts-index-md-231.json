@@ -1,0 +1,27 @@
+{
+  "id": "accounts/index",
+  "title": " 🅰️ Аккаунты",
+  "description": "[view:hierarchy=none",
+  "source": "@site/docs/accounts/index.md",
+  "sourceDirName": "accounts",
+  "slug": "/accounts/",
+  "permalink": "/YouTube-Dorgen-Docs/docs/accounts/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/accounts/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 1.2,
+    "title": " 🅰️ Аккаунты"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "3️⃣Смена устройства",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/hwid"
+  },
+  "next": {
+    "title": "⚠️ Требования к аккаунтам",
+    "permalink": "/YouTube-Dorgen-Docs/docs/accounts/requirements"
+  }
+}

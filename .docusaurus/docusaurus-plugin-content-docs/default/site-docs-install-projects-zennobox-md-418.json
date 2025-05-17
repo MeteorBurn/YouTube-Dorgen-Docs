@@ -1,0 +1,27 @@
+{
+  "id": "install/projects/zennobox",
+  "title": "🔹ZennoBox",
+  "description": "ZennoBox -- это упрощённая версия ZennoPoster, которая имеет идентичный функционал и интерфейс, но лишена возможности пользователям разрабатывать собственные шаблоны или редактировать уже существующие.",
+  "source": "@site/docs/install/projects/zennobox.md",
+  "sourceDirName": "install/projects",
+  "slug": "/install/projects/zennobox",
+  "permalink": "/YouTube-Dorgen-Docs/docs/install/projects/zennobox",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/install/projects/zennobox.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 1,
+    "title": "🔹ZennoBox"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🔹ZennoPoster",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/projects/zennoposter"
+  },
+  "next": {
+    "title": "2️⃣Запуск шаблонов",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/start"
+  }
+}

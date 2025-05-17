@@ -1,0 +1,27 @@
+{
+  "id": "youtube-recaptcha/index",
+  "title": "🩵 YOUTUBE-RECAPTCHA",
+  "description": "Описание",
+  "source": "@site/docs/youtube-recaptcha/index.md",
+  "sourceDirName": "youtube-recaptcha",
+  "slug": "/youtube-recaptcha/",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-recaptcha/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 3,
+    "title": "🩵 YOUTUBE-RECAPTCHA"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🔁 История обновлений",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/changelog"
+  },
+  "next": {
+    "title": "1️⃣Установка",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/install"
+  }
+}

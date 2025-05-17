@@ -1,0 +1,23 @@
+{
+  "id": "about/contacts",
+  "title": "Контакты",
+  "description": "-  Мой Telegram",
+  "source": "@site/docs/about/contacts.md",
+  "sourceDirName": "about",
+  "slug": "/about/contacts",
+  "permalink": "/YouTube-Dorgen-Docs/docs/about/contacts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/about/contacts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 1,
+    "title": "Контакты"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "О проекте",
+    "permalink": "/YouTube-Dorgen-Docs/docs/about/"
+  }
+}

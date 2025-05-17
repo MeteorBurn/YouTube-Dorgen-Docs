@@ -1,0 +1,27 @@
+{
+  "id": "youtube-recaptcha/install",
+  "title": "1️⃣Установка",
+  "description": "1️⃣ Установите шаблон по этой видео инструкции",
+  "source": "@site/docs/youtube-recaptcha/install.md",
+  "sourceDirName": "youtube-recaptcha",
+  "slug": "/youtube-recaptcha/install",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-recaptcha/install.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 1,
+    "title": "1️⃣Установка"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🩵 YOUTUBE-RECAPTCHA",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/"
+  },
+  "next": {
+    "title": "2️⃣Настройка",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/setup"
+  }
+}

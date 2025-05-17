@@ -1,0 +1,27 @@
+{
+  "id": "extensions/index",
+  "title": "⚡Расширения",
+  "description": "[view:hierarchy=none",
+  "source": "@site/docs/extensions/index.md",
+  "sourceDirName": "extensions",
+  "slug": "/extensions/",
+  "permalink": "/YouTube-Dorgen-Docs/docs/extensions/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/extensions/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 9.3,
+    "title": "⚡Расширения"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🔁 История обновлений",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-poster/changelog"
+  },
+  "next": {
+    "title": "🚻 Режим мульти-каналов",
+    "permalink": "/YouTube-Dorgen-Docs/docs/extensions/multi-channels"
+  }
+}

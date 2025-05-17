@@ -1,0 +1,27 @@
+{
+  "id": "youtube-parser/proxy",
+  "title": "🌐Прокси",
+  "description": "1️⃣ Прокси указываются в файле \\[Proxy\\].txt в формате:",
+  "source": "@site/docs/youtube-parser/proxy.md",
+  "sourceDirName": "youtube-parser",
+  "slug": "/youtube-parser/proxy",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/proxy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-parser/proxy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 2.5,
+    "title": "🌐Прокси"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "📕 Документация",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/docs"
+  },
+  "next": {
+    "title": "🔁 История обновлений",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/changelog"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "youtube-parser/docs",
+  "title": "📕 Документация",
+  "description": "Как начать парсить YouTube?",
+  "source": "@site/docs/youtube-parser/docs.md",
+  "sourceDirName": "youtube-parser",
+  "slug": "/youtube-parser/docs",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-parser/docs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 2,
+    "title": "📕 Документация"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "📘 Руководство",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/guide"
+  },
+  "next": {
+    "title": "🌐Прокси",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/proxy"
+  }
+}

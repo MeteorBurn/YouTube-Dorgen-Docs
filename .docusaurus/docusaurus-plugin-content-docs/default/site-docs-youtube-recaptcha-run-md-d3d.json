@@ -1,0 +1,27 @@
+{
+  "id": "youtube-recaptcha/run",
+  "title": "3️⃣Запуск",
+  "description": "1️⃣ Запустите шаблон в соответствии с инструкцией: Запуск шаблонов",
+  "source": "@site/docs/youtube-recaptcha/run.md",
+  "sourceDirName": "youtube-recaptcha",
+  "slug": "/youtube-recaptcha/run",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/run",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-recaptcha/run.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 3,
+    "title": "3️⃣Запуск"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "2️⃣Настройка",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/setup"
+  },
+  "next": {
+    "title": "🌐 Прокси",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/proxy/"
+  }
+}

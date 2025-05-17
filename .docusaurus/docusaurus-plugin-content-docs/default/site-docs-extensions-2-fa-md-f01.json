@@ -1,0 +1,27 @@
+{
+  "id": "extensions/2fa",
+  "title": "🔐 Работа с 2FA на аккаунтах",
+  "description": "Шаблоны YouTube-Uploader, YouTube-Manager и YouTube-Poster поддерживают работу с аккаунтами, на которых включена двухэтапная аутентификация – 2FA.",
+  "source": "@site/docs/extensions/2fa.md",
+  "sourceDirName": "extensions",
+  "slug": "/extensions/2fa",
+  "permalink": "/YouTube-Dorgen-Docs/docs/extensions/2fa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/extensions/2fa.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 0.8,
+    "title": "🔐 Работа с 2FA на аккаунтах"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🚻 Режим мульти-каналов",
+    "permalink": "/YouTube-Dorgen-Docs/docs/extensions/multi-channels"
+  },
+  "next": {
+    "title": "🍪 Импорт cookies YouTube",
+    "permalink": "/YouTube-Dorgen-Docs/docs/extensions/import-youtube-cookies/"
+  }
+}

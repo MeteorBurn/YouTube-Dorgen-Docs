@@ -1,0 +1,27 @@
+{
+  "id": "youtube-recaptcha/setup",
+  "title": "2️⃣Настройка",
+  "description": "1️⃣ В настройках ZennoBox на вкладке «Выполнение» установите значение количества попыток HTTP-запросов на – 5 и включите опцию Оставлять пустой файл в кодировке UTF8",
+  "source": "@site/docs/youtube-recaptcha/setup.md",
+  "sourceDirName": "youtube-recaptcha",
+  "slug": "/youtube-recaptcha/setup",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-recaptcha/setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 2,
+    "title": "2️⃣Настройка"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "1️⃣Установка",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/install"
+  },
+  "next": {
+    "title": "3️⃣Запуск",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/run"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "install/projects/index",
+  "title": "1️⃣Установка шаблонов ",
+  "description": "↘️ Инструкция для ZennoBox",
+  "source": "@site/docs/install/projects/index.md",
+  "sourceDirName": "install/projects",
+  "slug": "/install/projects/",
+  "permalink": "/YouTube-Dorgen-Docs/docs/install/projects/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/install/projects/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 0.4,
+    "title": "1️⃣Установка шаблонов "
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🛠️ Установка",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/"
+  },
+  "next": {
+    "title": "🔹ZennoPoster",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/projects/zennoposter"
+  }
+}

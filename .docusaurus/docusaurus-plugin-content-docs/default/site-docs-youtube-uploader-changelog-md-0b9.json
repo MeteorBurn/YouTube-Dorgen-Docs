@@ -1,0 +1,27 @@
+{
+  "id": "youtube-uploader/changelog",
+  "title": "🔁 История обновлений",
+  "description": "-  Добавлена возможность публиковать комментарий к Премьере (ранее выводилась ошибка о недоступности комментариев у таких видео)",
+  "source": "@site/docs/youtube-uploader/changelog.md",
+  "sourceDirName": "youtube-uploader",
+  "slug": "/youtube-uploader/changelog",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-uploader/changelog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 5,
+    "title": "🔁 История обновлений"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "⛔Ошибки",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/errors"
+  },
+  "next": {
+    "title": "💛 YOUTUBE-PARSER",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-parser/"
+  }
+}

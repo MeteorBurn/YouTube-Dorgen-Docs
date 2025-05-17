@@ -1,0 +1,27 @@
+{
+  "id": "youtube-recaptcha/optimization",
+  "title": "⏩Оптимизация",
+  "description": "📛 Утечка оперативной памяти и зависание ZennoBox",
+  "source": "@site/docs/youtube-recaptcha/optimization.md",
+  "sourceDirName": "youtube-recaptcha",
+  "slug": "/youtube-recaptcha/optimization",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/optimization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-recaptcha/optimization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 3.5,
+    "title": "⏩Оптимизация"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🌐 Прокси",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/proxy/"
+  },
+  "next": {
+    "title": "🔁 История обновлений",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-recaptcha/changelog"
+  }
+}

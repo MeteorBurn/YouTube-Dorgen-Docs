@@ -1,0 +1,27 @@
+{
+  "id": "install/hwid",
+  "title": "3️⃣Смена устройства",
+  "description": "При необходимости вы можете перенести шаблон вместе с ZennoPoster / ZennoBox на другое устройство. Ограничений по количеству переносов с устройства на устройство нет, но есть ограничение по частоте - не больше 1 раза в час.",
+  "source": "@site/docs/install/hwid.md",
+  "sourceDirName": "install",
+  "slug": "/install/hwid",
+  "permalink": "/YouTube-Dorgen-Docs/docs/install/hwid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/install/hwid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 0.7,
+    "title": "3️⃣Смена устройства"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "2️⃣Запуск шаблонов",
+    "permalink": "/YouTube-Dorgen-Docs/docs/install/start"
+  },
+  "next": {
+    "title": " 🅰️ Аккаунты",
+    "permalink": "/YouTube-Dorgen-Docs/docs/accounts/"
+  }
+}

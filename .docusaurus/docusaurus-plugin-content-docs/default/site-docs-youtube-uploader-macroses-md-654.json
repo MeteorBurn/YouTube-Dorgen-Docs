@@ -1,0 +1,27 @@
+{
+  "id": "youtube-uploader/macroses",
+  "title": "✨Макросы",
+  "description": "Динамическая подстановка текста в мета-данных",
+  "source": "@site/docs/youtube-uploader/macroses.md",
+  "sourceDirName": "youtube-uploader",
+  "slug": "/youtube-uploader/macroses",
+  "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/macroses",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MeteorBurn/YouTube-Dorgen-Docs/edit/main/docs/youtube-uploader/macroses.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 3,
+    "title": "✨Макросы"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "📗Планировщик",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/sources/scheduler"
+  },
+  "next": {
+    "title": "⛔Ошибки",
+    "permalink": "/YouTube-Dorgen-Docs/docs/youtube-uploader/errors"
+  }
+}

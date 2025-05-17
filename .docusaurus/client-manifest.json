@@ -1,0 +1,697 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "489": [
+      5741,
+      489
+    ],
+    "3042": [
+      3042
+    ],
+    "4624": [
+      7542,
+      4624
+    ],
+    "5741": [
+      489,
+      5741
+    ],
+    "7542": [
+      4624,
+      7542
+    ],
+    "17896441": [
+      1869,
+      8401
+    ],
+    "56462989": [
+      2858
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "098c3ffd": [
+      3276
+    ],
+    "0b9a98c2": [
+      7667
+    ],
+    "0e384e19": [
+      3976
+    ],
+    "138e0e15": [
+      4921
+    ],
+    "19a86315": [
+      6021
+    ],
+    "1a4e3797": [
+      1869,
+      2138
+    ],
+    "1f60d0d4": [
+      780
+    ],
+    "1facaa23": [
+      3005
+    ],
+    "227d758e": [
+      3715
+    ],
+    "231c3313": [
+      132
+    ],
+    "2b0ad62d": [
+      8998
+    ],
+    "35c3d6c4": [
+      4474
+    ],
+    "3a450b97": [
+      3436
+    ],
+    "3aec9c00": [
+      3223
+    ],
+    "3d872873": [
+      2401
+    ],
+    "418e1763": [
+      7774
+    ],
+    "446a23f1": [
+      690
+    ],
+    "4f206395": [
+      288
+    ],
+    "583db3ef": [
+      6549
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "5fbabb6e": [
+      6426
+    ],
+    "61b69d06": [
+      2001
+    ],
+    "6545a258": [
+      5271
+    ],
+    "822beb96": [
+      5737
+    ],
+    "86146cbb": [
+      2619
+    ],
+    "8f739389": [
+      2502
+    ],
+    "92ac319e": [
+      4164
+    ],
+    "96bb8db0": [
+      8764
+    ],
+    "9de8a0f2": [
+      9972
+    ],
+    "a2795dac": [
+      6677
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "b0f452d6": [
+      7080
+    ],
+    "b1e8d8aa": [
+      2253
+    ],
+    "b6c323cd": [
+      8233
+    ],
+    "c0528e48": [
+      9458
+    ],
+    "c19ed093": [
+      2309
+    ],
+    "c7f60c67": [
+      963
+    ],
+    "c99c03f5": [
+      6671
+    ],
+    "d3d7a5ab": [
+      7016
+    ],
+    "e39316f9": [
+      4325
+    ],
+    "e6564b56": [
+      3112
+    ],
+    "e86a1ae7": [
+      9229
+    ],
+    "ebd52c7e": [
+      8166
+    ],
+    "f0124623": [
+      5931
+    ],
+    "styles": [
+      2138,
+      5354,
+      8401,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "132": {
+      "js": [
+        {
+          "file": "assets/js/231c3313.7a2e06f9.js",
+          "hash": "9e7d1581c2efa8d0",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/231c3313.7a2e06f9.js"
+        }
+      ]
+    },
+    "288": {
+      "js": [
+        {
+          "file": "assets/js/4f206395.1826ee92.js",
+          "hash": "314320ec5fe43d07",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/4f206395.1826ee92.js"
+        }
+      ]
+    },
+    "489": {
+      "js": [
+        {
+          "file": "assets/js/489.4e82b8e9.js",
+          "hash": "29222053fe5e90fa",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/489.4e82b8e9.js"
+        }
+      ]
+    },
+    "690": {
+      "js": [
+        {
+          "file": "assets/js/446a23f1.6280b15c.js",
+          "hash": "e51f0e664a39b706",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/446a23f1.6280b15c.js"
+        }
+      ]
+    },
+    "780": {
+      "js": [
+        {
+          "file": "assets/js/1f60d0d4.1017d3ec.js",
+          "hash": "acd03db4d1f42813",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/1f60d0d4.1017d3ec.js"
+        }
+      ]
+    },
+    "963": {
+      "js": [
+        {
+          "file": "assets/js/c7f60c67.b11bb195.js",
+          "hash": "a9dd0127c39259f2",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/c7f60c67.b11bb195.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.aa475b15.css",
+          "hash": "d6581d6e4005637e",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/css/styles.aa475b15.css"
+        }
+      ]
+    },
+    "2001": {
+      "js": [
+        {
+          "file": "assets/js/61b69d06.c13c1fae.js",
+          "hash": "28862c09961cc93d",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/61b69d06.c13c1fae.js"
+        }
+      ]
+    },
+    "2138": {
+      "js": [
+        {
+          "file": "assets/js/1a4e3797.41a1205d.js",
+          "hash": "25fa5d37bec2e5d4",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/1a4e3797.41a1205d.js"
+        }
+      ]
+    },
+    "2253": {
+      "js": [
+        {
+          "file": "assets/js/b1e8d8aa.37a7db02.js",
+          "hash": "2805986587f9dadd",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/b1e8d8aa.37a7db02.js"
+        }
+      ]
+    },
+    "2309": {
+      "js": [
+        {
+          "file": "assets/js/c19ed093.636b997e.js",
+          "hash": "c69aa75640b5bc6d",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/c19ed093.636b997e.js"
+        }
+      ]
+    },
+    "2401": {
+      "js": [
+        {
+          "file": "assets/js/3d872873.1a6a98df.js",
+          "hash": "822045d72c5e4e12",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/3d872873.1a6a98df.js"
+        }
+      ]
+    },
+    "2502": {
+      "js": [
+        {
+          "file": "assets/js/8f739389.7aca7456.js",
+          "hash": "78edd71fb1ab5904",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/8f739389.7aca7456.js"
+        }
+      ]
+    },
+    "2619": {
+      "js": [
+        {
+          "file": "assets/js/86146cbb.0ef567d1.js",
+          "hash": "48bfe62af86d804d",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/86146cbb.0ef567d1.js"
+        }
+      ]
+    },
+    "2858": {
+      "js": [
+        {
+          "file": "assets/js/56462989.570f2800.js",
+          "hash": "3987dba20f872693",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/56462989.570f2800.js"
+        }
+      ]
+    },
+    "3005": {
+      "js": [
+        {
+          "file": "assets/js/1facaa23.41f49332.js",
+          "hash": "62fad9824f26a818",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/1facaa23.41f49332.js"
+        }
+      ]
+    },
+    "3042": {
+      "js": [
+        {
+          "file": "assets/js/3042.5fd3de48.js",
+          "hash": "45975c8b0fd11eb9",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/3042.5fd3de48.js"
+        }
+      ]
+    },
+    "3112": {
+      "js": [
+        {
+          "file": "assets/js/e6564b56.5e7fe530.js",
+          "hash": "7b6f0a4e5ee23049",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/e6564b56.5e7fe530.js"
+        }
+      ]
+    },
+    "3223": {
+      "js": [
+        {
+          "file": "assets/js/3aec9c00.69faf128.js",
+          "hash": "69eb868313f03736",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/3aec9c00.69faf128.js"
+        }
+      ]
+    },
+    "3276": {
+      "js": [
+        {
+          "file": "assets/js/098c3ffd.f590975a.js",
+          "hash": "13a4bff6fa288c30",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/098c3ffd.f590975a.js"
+        }
+      ]
+    },
+    "3436": {
+      "js": [
+        {
+          "file": "assets/js/3a450b97.1acfeb2a.js",
+          "hash": "92da1684165f9ff9",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/3a450b97.1acfeb2a.js"
+        }
+      ]
+    },
+    "3715": {
+      "js": [
+        {
+          "file": "assets/js/227d758e.786b85f3.js",
+          "hash": "7566f3eb26241f6d",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/227d758e.786b85f3.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.f30ba7ab.js",
+          "hash": "7d2c278a94e0cff3",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/0e384e19.f30ba7ab.js"
+        }
+      ]
+    },
+    "4164": {
+      "js": [
+        {
+          "file": "assets/js/92ac319e.69ea7806.js",
+          "hash": "82c6954ebeab5d64",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/92ac319e.69ea7806.js"
+        }
+      ]
+    },
+    "4325": {
+      "js": [
+        {
+          "file": "assets/js/e39316f9.90fee5a1.js",
+          "hash": "28a7ac43fa756446",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/e39316f9.90fee5a1.js"
+        }
+      ]
+    },
+    "4474": {
+      "js": [
+        {
+          "file": "assets/js/35c3d6c4.01ae52bf.js",
+          "hash": "c5524670d90d3811",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/35c3d6c4.01ae52bf.js"
+        }
+      ]
+    },
+    "4624": {
+      "js": [
+        {
+          "file": "assets/js/4624.274ea1ce.js",
+          "hash": "24b14629f48d8dd0",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/4624.274ea1ce.js"
+        }
+      ]
+    },
+    "4921": {
+      "js": [
+        {
+          "file": "assets/js/138e0e15.aea6f97a.js",
+          "hash": "34e49d79e855fb37",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/138e0e15.aea6f97a.js"
+        }
+      ]
+    },
+    "5271": {
+      "js": [
+        {
+          "file": "assets/js/6545a258.db5edb2f.js",
+          "hash": "593f724b4e5888c6",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/6545a258.db5edb2f.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.3492c166.js",
+          "hash": "cad7e0decadd2424",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/runtime~main.3492c166.js"
+        }
+      ]
+    },
+    "5737": {
+      "js": [
+        {
+          "file": "assets/js/822beb96.f84bf064.js",
+          "hash": "1a2e91f223063ed6",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/822beb96.f84bf064.js"
+        }
+      ]
+    },
+    "5741": {
+      "js": [
+        {
+          "file": "assets/js/5741.03e6fcc0.js",
+          "hash": "887b3e8e70813ff3",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/5741.03e6fcc0.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.dca96df5.js",
+          "hash": "f336db7dc7d6ae58",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/aba21aa0.dca96df5.js"
+        }
+      ]
+    },
+    "5931": {
+      "js": [
+        {
+          "file": "assets/js/f0124623.c8815b8a.js",
+          "hash": "07d5f9f0cf1c7bbd",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/f0124623.c8815b8a.js"
+        }
+      ]
+    },
+    "6021": {
+      "js": [
+        {
+          "file": "assets/js/19a86315.158ab31b.js",
+          "hash": "00c158faa79773cb",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/19a86315.158ab31b.js"
+        }
+      ]
+    },
+    "6426": {
+      "js": [
+        {
+          "file": "assets/js/5fbabb6e.ccf195e8.js",
+          "hash": "4798267bfdd7281b",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/5fbabb6e.ccf195e8.js"
+        }
+      ]
+    },
+    "6549": {
+      "js": [
+        {
+          "file": "assets/js/583db3ef.469312aa.js",
+          "hash": "923e4e36911376ae",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/583db3ef.469312aa.js"
+        }
+      ]
+    },
+    "6671": {
+      "js": [
+        {
+          "file": "assets/js/c99c03f5.f12affa9.js",
+          "hash": "4cf7591e882ac377",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/c99c03f5.f12affa9.js"
+        }
+      ]
+    },
+    "6677": {
+      "js": [
+        {
+          "file": "assets/js/a2795dac.3ce72649.js",
+          "hash": "0750d986d275f0ca",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/a2795dac.3ce72649.js"
+        }
+      ]
+    },
+    "7016": {
+      "js": [
+        {
+          "file": "assets/js/d3d7a5ab.d2fdee58.js",
+          "hash": "c76dc468a5b4386a",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/d3d7a5ab.d2fdee58.js"
+        }
+      ]
+    },
+    "7080": {
+      "js": [
+        {
+          "file": "assets/js/b0f452d6.10319cce.js",
+          "hash": "91abeb1ed16dcfaf",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/b0f452d6.10319cce.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.e42ea6b0.js",
+          "hash": "90f0e59aef22f928",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/a7bd4aaa.e42ea6b0.js"
+        }
+      ]
+    },
+    "7542": {
+      "js": [
+        {
+          "file": "assets/js/7542.5ecfe0ac.js",
+          "hash": "cd5e449ea93322aa",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/7542.5ecfe0ac.js"
+        }
+      ]
+    },
+    "7667": {
+      "js": [
+        {
+          "file": "assets/js/0b9a98c2.aa135077.js",
+          "hash": "2fff01ef7d59fc1d",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/0b9a98c2.aa135077.js"
+        }
+      ]
+    },
+    "7774": {
+      "js": [
+        {
+          "file": "assets/js/418e1763.5c740078.js",
+          "hash": "8fefb415d2941052",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/418e1763.5c740078.js"
+        }
+      ]
+    },
+    "8166": {
+      "js": [
+        {
+          "file": "assets/js/ebd52c7e.7b4d721a.js",
+          "hash": "04695ab4c693fd85",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/ebd52c7e.7b4d721a.js"
+        }
+      ]
+    },
+    "8233": {
+      "js": [
+        {
+          "file": "assets/js/b6c323cd.e1b42520.js",
+          "hash": "7e4a51941f486da6",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/b6c323cd.e1b42520.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.ec5a0e25.js",
+          "hash": "8b9c3edba2fa9fc5",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/17896441.ec5a0e25.js"
+        }
+      ]
+    },
+    "8764": {
+      "js": [
+        {
+          "file": "assets/js/96bb8db0.2df70a9b.js",
+          "hash": "3b36c554a84f5455",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/96bb8db0.2df70a9b.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.5f46611d.js",
+          "hash": "2f9b3b5769b51422",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/main.5f46611d.js"
+        }
+      ]
+    },
+    "8998": {
+      "js": [
+        {
+          "file": "assets/js/2b0ad62d.975f7f2a.js",
+          "hash": "4872503ba951e2b0",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/2b0ad62d.975f7f2a.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.5d396ed3.js",
+          "hash": "2ef571ace27f17ec",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/a94703ab.5d396ed3.js"
+        }
+      ]
+    },
+    "9229": {
+      "js": [
+        {
+          "file": "assets/js/e86a1ae7.a4977d25.js",
+          "hash": "fc1049f900657fcb",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/e86a1ae7.a4977d25.js"
+        }
+      ]
+    },
+    "9458": {
+      "js": [
+        {
+          "file": "assets/js/c0528e48.5923565a.js",
+          "hash": "59c05e21b34e26ce",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/c0528e48.5923565a.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.fd423007.js",
+          "hash": "d555ce1be6c83654",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/5e95c892.fd423007.js"
+        }
+      ]
+    },
+    "9972": {
+      "js": [
+        {
+          "file": "assets/js/9de8a0f2.6540bbef.js",
+          "hash": "0ecc28e168f838b0",
+          "publicPath": "/YouTube-Dorgen-Docs/assets/js/9de8a0f2.6540bbef.js"
+        }
+      ]
+    }
+  }
+}
