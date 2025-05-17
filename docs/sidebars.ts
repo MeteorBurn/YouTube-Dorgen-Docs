@@ -17,38 +17,57 @@ const sidebars: SidebarsConfig = {
   docs: [
     {
       type: 'category',
-      label: 'О проекте',
+      label: '☑️ Меню',
       link: {
         type: 'doc',
-        id: 'about/index',
+        id: 'navigation',
+      },
+      items: [],
+    },
+    {
+      type: 'category',
+      label: '🛠️ Установка',
+      link: {
+        type: 'doc',
+        id: 'install/index',
       },
       items: [
-        'about/contacts',
+        {
+          type: 'category',
+          label: '1️⃣ Установка шаблонов',
+          link: {
+            type: 'doc',
+            id: 'install/projects/index',
+          },
+          items: [
+            'install/projects/zennoposter',
+            'install/projects/zennobox',
+          ],
+        },
+        'install/start',
+        'install/hwid',
       ],
     },
     {
       type: 'category',
-      label: 'Аккаунты',
+      label: '🅰️ Аккаунты',
       link: {
         type: 'doc',
         id: 'accounts/index',
       },
       items: [
-        'accounts/add',
         'accounts/requirements',
+        'accounts/add',
       ],
     },
     {
       type: 'category',
-      label: 'YouTube-Uploader',
+      label: '❤️ YOUTUBE-UPLOADER',
       link: {
         type: 'doc',
         id: 'youtube-uploader/index',
       },
       items: [
-        'youtube-uploader/errors',
-        'youtube-uploader/changelog',
-        'youtube-uploader/macroses',
         {
           type: 'category',
           label: 'Источники данных',
@@ -61,22 +80,14 @@ const sidebars: SidebarsConfig = {
             'youtube-uploader/sources/scheduler',
           ],
         },
+        'youtube-uploader/macroses',
+        'youtube-uploader/errors',
+        'youtube-uploader/changelog',
       ],
     },
     {
       type: 'category',
-      label: 'YouTube-Manager',
-      link: {
-        type: 'doc',
-        id: 'youtube-manager/index',
-      },
-      items: [
-        'youtube-manager/changelog',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'YouTube-Parser',
+      label: '💛 YOUTUBE-PARSER',
       link: {
         type: 'doc',
         id: 'youtube-parser/index',
@@ -90,7 +101,42 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'YouTube-Poster',
+      label: '🩵 YOUTUBE-RECAPTCHA',
+      link: {
+        type: 'doc',
+        id: 'youtube-recaptcha/index',
+      },
+      items: [
+        'youtube-recaptcha/install',
+        'youtube-recaptcha/setup',
+        'youtube-recaptcha/run',
+        {
+          type: 'category',
+          label: '🌐 Прокси',
+          link: {
+            type: 'doc',
+            id: 'youtube-recaptcha/proxy/index',
+          },
+          items: [],
+        },
+        'youtube-recaptcha/optimization',
+        'youtube-recaptcha/changelog',
+      ],
+    },
+    {
+      type: 'category',
+      label: '💚 YOUTUBE-MANAGER',
+      link: {
+        type: 'doc',
+        id: 'youtube-manager/index',
+      },
+      items: [
+        'youtube-manager/changelog',
+      ],
+    },
+    {
+      type: 'category',
+      label: '💙 YOUTUBE-POSTER',
       link: {
         type: 'doc',
         id: 'youtube-poster/index',
@@ -101,68 +147,34 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'YouTube-ReCaptcha',
-      link: {
-        type: 'doc',
-        id: 'youtube-recaptcha/index',
-      },
-      items: [
-        'youtube-recaptcha/install',
-        'youtube-recaptcha/setup',
-        'youtube-recaptcha/run',
-        'youtube-recaptcha/optimization',
-        'youtube-recaptcha/changelog',
-        {
-          type: 'category',
-          label: 'Прокси',
-          link: {
-            type: 'doc',
-            id: 'youtube-recaptcha/proxy/index',
-          },
-          items: [],
-        },
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Установка',
-      link: {
-        type: 'doc',
-        id: 'install/index',
-      },
-      items: [
-        'install/hwid',
-        'install/start',
-        {
-          type: 'category',
-          label: 'Установка шаблонов',
-          link: {
-            type: 'doc',
-            id: 'install/projects/index',
-          },
-          items: [],
-        },
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Расширения',
+      label: '⚡ Расширения',
       link: {
         type: 'doc',
         id: 'extensions/index',
       },
       items: [
-        'extensions/2fa',
         'extensions/multi-channels',
+        'extensions/2fa',
         {
           type: 'category',
-          label: 'Импорт cookies YouTube',
+          label: '🍪 Импорт cookies YouTube',
           link: {
             type: 'doc',
             id: 'extensions/import-youtube-cookies/index',
           },
           items: [],
         },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'О проекте',
+      link: {
+        type: 'doc',
+        id: 'about/index',
+      },
+      items: [
+        'about/contacts',
       ],
     },
   ],
