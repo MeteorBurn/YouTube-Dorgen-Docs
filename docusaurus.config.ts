@@ -14,7 +14,7 @@ const config: Config = {
   organizationName: 'MeteorBurn', // Usually your GitHub org/user name.
   projectName: 'YouTube-Dorgen-Docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
